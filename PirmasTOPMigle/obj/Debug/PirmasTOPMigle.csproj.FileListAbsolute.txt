@@ -1,0 +1,6 @@
+C:\Users\Migle\Documents\TOP\MyFirstProject\PirmasTOPMigle\PirmasTOPMigle\bin\Debug\PirmasTOPMigle.exe.config
+C:\Users\Migle\Documents\TOP\MyFirstProject\PirmasTOPMigle\PirmasTOPMigle\obj\Debug\PirmasTOPMigle.csprojResolveAssemblyReference.cache
+C:\Users\Migle\Documents\TOP\MyFirstProject\PirmasTOPMigle\PirmasTOPMigle\bin\Debug\PirmasTOPMigle.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\PirmasTOPMigle\PirmasTOPMigle\bin\Debug\PirmasTOPMigle.pdb
+C:\Users\Migle\Documents\TOP\MyFirstProject\PirmasTOPMigle\PirmasTOPMigle\obj\Debug\PirmasTOPMigle.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\PirmasTOPMigle\PirmasTOPMigle\obj\Debug\PirmasTOPMigle.pdb
