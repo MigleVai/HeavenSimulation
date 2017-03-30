@@ -6,4 +6,4 @@ Had to make a project in which there would be some of the requirements (http://u
 This was my first ever project with C#, so there I tried to do as many things as I could, but it wasn't very difficult.
 
 
-2016 metai
+2016
